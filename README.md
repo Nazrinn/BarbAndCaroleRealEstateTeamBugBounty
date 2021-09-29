@@ -30,7 +30,7 @@ Bugs that are experienced on browsers which version was published before the 20t
 * Firefox 80	and older
 * Opera 71 (which uses Chromium 85) and older
 * Edge 85.0.564.51 and older
-* All Internet Explorer version
+* All Internet Explorer versions
 
 Please report the issue anyway so I can discuss of it with Barb and Carole.
 
