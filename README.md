@@ -18,11 +18,12 @@ Please include the following in your issue:
 * Swiper.js unintended behaviors
 
 ## Additional details
+### What the site was made with
 * Barb & Carole's website uses WordPress and was built with Elementor Pro.
 * Custom sliders are using [Swiper.js](https://swiperjs.com/).
 * Testimonials and Listings are [Custom Post Types](https://wordpress.org/support/article/post-types/#custom-post-types) made with the help of [Advanced Custom Fields](https://www.advancedcustomfields.com/).
 
-## Browser compatibility
+### Browser compatibility
 Bugs that are experienced on browsers which version was published before the 20th of September 2020 may be dismissed. This include:
 * Chrome version 85.0. 4183.102 and older
 * Safari 14.0 and older
@@ -32,4 +33,7 @@ Bugs that are experienced on browsers which version was published before the 20t
 * All Internet Explorer version
 
 Please report the issue anyway so I can discuss of it with Barb and Carole.
+
+### Accessibility
+Please keep in mind that the website is not necessarily optimized for accessibility, and wasn't intended to be, but if you desire to report a glaring accessibility issue, please feel free to do so.
 
